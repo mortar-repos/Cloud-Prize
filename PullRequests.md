@@ -1,7 +1,7 @@
 Note that some Pull Requests listed more than once as they included multiple changes
 
 ## Feature Related Pull Requests
-* Allow custom backends: https://github.com/Netflix/Lipstick/pull/14<br
+* Allow custom backends: https://github.com/Netflix/Lipstick/pull/14
 * Can run PPNL w/o Custom Pig Server: https://github.com/Netflix/Lipstick/pull/15
 * AJAX Url can be overriden: https://github.com/Netflix/Lipstick/pull/18
 * Custom error handling in PPNL: https://github.com/Netflix/Lipstick/pull/22
